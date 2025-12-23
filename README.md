@@ -14,26 +14,7 @@
 * 🍓 `Pronouns`: **She/Her**,
 * 📍 `I'm from`: **Maldonado, Uruguay**🇺🇾,
 * 🌺 `I'm currently learning`: **React Js and Typescript**,
-* 💻 `Favorite lang`: **Javascript**  
-
-}👋 Hi there</h2>
-
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=sammwyy&color=blueviolet"/>
-</p>
-
-<hr/>
-
-<img align='right' src='https://octodex.github.com/images/femalecodertocat.png' width='25%'>  
-
-{  
-
-* 🦁 `My name is`: **Vanina Lopetegui**,
-* 👩 `Pronouns`: **She/Her**,
-* 🦋 `I'm`: **22 years old**,
-* 🌺 `I’m currently learning`: **React Js and Typescript**,
-* 🍓 `I love`: **Cats, games and anime**  ,
-* 💻 `Favorite lang`: **Javascript**  
+* 🎧 `Favorite lang`: **Javascript**  
 
 }
 
@@ -96,7 +77,3 @@
 
 <h2 align="center">📌 Pinned Repositories</h2>
 <p align="center">Take a look at my most outstanding repositories.</p>
-
-```math
-\ce{$&#x5C;unicode[color:red; pointer-events: none; z-index: 0; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; opacity: 0.20; background: url('https://raw.githubusercontent.com/sammwyy/sammwyy/master/wallpapers/blackandwhite.jpg') no-repeat center center fixed; background-size: cover;]{x0000}$}
-```
