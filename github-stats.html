@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Stats - Vanina Lopetegui</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="stats-card">
+            <div class="left-section">
+                <h1>Vanina's GitHub Stats</h1>
+                <div class="stat-item">
+                    <span class="icon">⭐</span>
+                    <span class="label">Total Stars Earned:</span>
+                    <span class="value" id="stars">...</span>
+                </div>
+                <div class="stat-item">
+                    <span class="icon">⏰</span>
+                    <span class="label">Total Commits (last year):</span>
+                    <span class="value" id="commits">...</span>
+                </div>
+                <div class="stat-item">
+                    <span class="icon">🔀</span>
+                    <span class="label">Total PRs:</span>
+                    <span class="value" id="prs">...</span>
+                </div>
+            </div>
+            
+            <div class="center-section">
+                <div class="grade-circle">
+                    <svg width="160" height="160" viewBox="0 0 160 160">
+                        <circle cx="80" cy="80" r="70" fill="none" stroke="#2d3748" stroke-width="10"/>
+                        <circle id="progress-circle" cx="80" cy="80" r="70" fill="none" stroke="url(#gradient)" 
+                                stroke-width="10" stroke-dasharray="439.8" stroke-dashoffset="110" 
+                                transform="rotate(-90 80 80)" stroke-linecap="round"/>
+                        <defs>
+                            <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+                                <stop offset="0%" style="stop-color:#a855f7;stop-opacity:1" />
+                                <stop offset="100%" style="stop-color:#ec4899;stop-opacity:1" />
+                            </linearGradient>
+                        </defs>
+                    </svg>
+                    <div class="grade-text" id="grade">A-</div>
+                </div>
+            </div>
+            
+            <div class="right-section">
+                <h2>Most Used Languages</h2>
+                <div class="language-bar" id="language-bar"></div>
+                <div class="language-list" id="language-list"></div>
+            </div>
+        </div>
+    </div>
+    
+    <script src="github-stats.js"></script>
+</body>
+</html>
