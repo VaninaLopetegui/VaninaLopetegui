@@ -23,19 +23,16 @@
 <h2 align="center">☕ Statistics</h2>
 
 <p align="center">
-  <a href="github-stats.html" target="_blank">
-    <img src="https://raw.githubusercontent.com/VaninaLopetegui/Presentation-of-my-profile/main/github-stats-preview.png" alt="GitHub Stats Personalizadas" width="100%"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VaninaLopetegui&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaninaLopetegui&layout=compact&hide_border=true&theme=material-palenight&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=6"/>
 </p>
 
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=VaninaLopetegui&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=VaninaLopetegui&layout=compact&hide_border=true&theme=material-palenight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=VaninaLopetegui&theme=material-palenight&hide_border=true&background=FFFFFF00">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=VaninaLopetegui&theme=material-palenight&hide_border=true&background=0d1117&stroke=a855f7&ring=a855f7&fire=ec4899&currStreakLabel=c9d1d9"/>
 </p>
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=VaninaLopetegui&theme=tokyonight"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=VaninaLopetegui&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
 </p>
 
 <h2 align="center">🚀 Projects</h2>
