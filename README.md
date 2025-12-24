@@ -14,7 +14,7 @@
 * 🍓 `Pronouns`: **She/Her**,
 * 📍 `I'm from`: **Maldonado, Uruguay**🇺🇾,
 * 🌺 `I'm currently learning`: **React Js and Typescript**,
-* 🎧 `Favorite lang`: **Javascript**  
+* 🎧 `Favorite lang of the moment`: **Javascript**  
 
 }
 

@@ -1,13 +1,13 @@
 {
-  "name": "github-stats-preview",
-  "version": "1.0.0",
-  "description": "Automated GitHub stats preview generator",
-  "scripts": {
-    "generate": "node generate-screenshot.js"
-  },
-  "dependencies": {
-    "puppeteer": "^21.0.0"
-  },
-  "author": "Vanina Lopetegui",
-  "license": "MIT"
+    "name": "github-stats-preview",
+    "version": "1.0.0",
+    "description": "Automated GitHub stats preview generator",
+    "scripts": {
+        "generate": "node generate-screenshot.js"
+    },
+    "dependencies": {
+        "puppeteer": "^21.0.0"
+    },
+    "author": "Vanina Lopetegui",
+    "license": "MIT"
 }
