@@ -6,7 +6,7 @@
 
 <hr/>
 
-<img align='right' src='https://octodex.github.com/images/femalecodertocat.png' width='25%'>  
+<img align='right' src='./img/ninagithub.png' width='25%'>  
 
 {  
 
@@ -23,8 +23,8 @@
 <h2 align="center">☕ Statistics</h2>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VaninaLopetegui&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaninaLopetegui&layout=compact&hide_border=true&theme=material-palenight&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=6"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VaninaLopetegui&theme=github_dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VaninaLopetegui&theme=github_dark"/>
 </p>
 
 <p align="center">
