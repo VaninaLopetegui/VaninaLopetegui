@@ -27,14 +27,6 @@
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VaninaLopetegui&theme=github_dark"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=VaninaLopetegui&theme=material-palenight&hide_border=true&background=0d1117&stroke=a855f7&ring=a855f7&fire=ec4899&currStreakLabel=c9d1d9"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VaninaLopetegui&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
-</p>
-
 <h2 align="center">🚀 Projects</h2>
 <p align="center">Take a look at my most outstanding projects.</p>
   
