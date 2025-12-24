@@ -20,7 +20,7 @@
 
 <br/>
 
-<h2 align="center">☕ Statistics</h2>
+<h2 align="center">🎮 Statistics</h2>
 
 <p align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VaninaLopetegui&theme=github_dark"/>
@@ -36,7 +36,7 @@
 | <p>Proyecto final de JAP fase 2 en equipo</p> <a href="https://github.com/VaninaLopetegui/Proyecto-final-JAP" target="_blank">`Repository`</a> | <p>Proyecto de entrega en curso Js en Coderhouse 2024</p> <a href="https://github.com/VaninaLopetegui/Proyecto-Js-2024" target="_blank">`Repository`</a> | <p>Proyecto final para curso de React Js Flex de Coderhouse 2024</p> <a href="https://github.com/VaninaLopetegui/Proyecto-ReactFlex-2024" target="_blank">`Repository`</a> |
 <br/>
 
-<h2 align="center">🌱 My Skills</h2>
+<h2 align="center">👩‍💻 My Skills</h2>
 
 <h4 align="center">💻 Programming languages (and html)</h4>
 
