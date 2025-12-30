@@ -6,7 +6,7 @@
 
 <hr/>
 
-<img align='right' src='./img/ninagithub.png' width='25%'>  
+<img align='right' src='./img/asuka.png' width='25%'>  
 
 {  
 
